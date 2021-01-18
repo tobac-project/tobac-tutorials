@@ -22,7 +22,7 @@ This creates a second folder next to your `tobac` folder. Again, check what bran
 `git status`
 
 In the next step, you need to create a conda environment for providing all required software dependencies. First, initiate a new conda environment with\
-`conda create -n NAME_ENVIRONMENT python=PYTHON_VERSION`\
+`conda create -n NAME_ENVIRONMENT python=PYTHON_VERSION`
 
 Enter your environment's name and the Python version of your choice. Check the [travis.yml](https://github.com/climate-processes/tobac/blob/v2.0-dev/.travis.yml) for further information on currently supported Python versions. 
 
@@ -38,7 +38,7 @@ With this, all necessary prerequisites for running `tobac` are met so you can in
 Up to this point, you should have successfully installed `tobac`. As the tutorials are provided by Jupyter Notebook, you'll need to install `jupyter` in your environment as well. In the active environment, type\
 `pip install jupyter`
 
-For running the tutorials, change the directory to where the examples are located. E.g., if you want to know how the toolset can be applied to OLR model data write\ 
+For running the tutorials, change the directory to where the examples are located. E.g., if you want to know how the toolset can be applied to OLR model data write 
 `cd YOUR_PATH/tobac-tutorials/themes/tobac_v1/Example_OLR_Tracking_model`\
 `jupyter notebook`
 
