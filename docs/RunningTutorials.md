@@ -1,6 +1,6 @@
-# How to install Tobac-Tutorials
+# How to run Tobac-Tutorials
 
-## Getting started
+## Getting started: Installation
 
 This documentation explains how to use tobac-tutorial notebooks for `tobac` 2.x 
 using an Anaconda environment. For running tutorials on your local device, create
