@@ -86,10 +86,13 @@ pip install .
 
 Up to this point, you should have successfully installed `tobac`. As the tutorials 
 are provided by Jupyter Notebook, you'll need to install `jupyter` in your 
-environment as well. In the active environment, type:
+environment as well. 
+
+In the active environment, you need to install additional packages that are exclusively used my the tutorial notebooks. These packages are however not mandatory for the execution of `tobac`itself. So please type: 
 
 ```bash
-conda install jupyter
+conda install jupyter boto3 basemap
+pip install rioxarray
 ```
 
 ## Running Jupyter Notebook
