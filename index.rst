@@ -20,8 +20,8 @@ Welcome to a Collection of Tutorials for the Python Package `tobac`
    :hidden:
    :caption: Tracking in Observations
    
-   ./tutorials/Example_OLR_Tracking_satellite/Example_OLR_Tracking_satellite
-   ./tutorials/Example_VIS_Tracking_Satellite/Example_VIS_Tracking_Satellite
+   OLR from GOES-13 Satellite <./tutorials/Example_OLR_Tracking_satellite/Example_OLR_Tracking_satellite>
+   VIS from GOES-16 Satellite <./tutorials/Example_VIS_Tracking_Satellite/Example_VIS_Tracking_Satellite>
 
 
 .. toctree::
@@ -29,9 +29,9 @@ Welcome to a Collection of Tutorials for the Python Package `tobac`
    :hidden:
    :caption: Tracking in Simulaitons
 
-   ./tutorials/Example_OLR_Tracking_model/Example_OLR_Tracking_model
-   ./tutorials/Example_Precip_Tracking/Example_Precip_Tracking
-   ./tutorials/Example_Updraft_Tracking/Example_Updraft_Tracking
+   WRF OLR <./tutorials/Example_OLR_Tracking_model/Example_OLR_Tracking_model>
+   WRF Precip <./tutorials/Example_Precip_Tracking/Example_Precip_Tracking>
+   WRF Updrafts <./tutorials/Example_Updraft_Tracking/Example_Updraft_Tracking>
 
 
 
