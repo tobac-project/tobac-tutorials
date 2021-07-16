@@ -6,13 +6,22 @@
 Welcome to a Collection of Tutorials for the Python Package `tobac`
 ===================================================================
 
+.. toctree::
+   :maxdepth: 1 
+   :hidden:
+   :caption: Getting Started
+   
+   ./docs/RunningTutorials.md
+
+
 
 .. toctree::
    :maxdepth: 1 
    :hidden:
    :caption: Tracking in Observations
    
-   ./tobac_v1/Example_OLR_Tracking_satellite/Example_OLR_Tracking_satellite
+   ./tutorials/Example_OLR_Tracking_satellite/Example_OLR_Tracking_satellite
+   ./tutorials/Example_VIS_Tracking_Satellite/Example_VIS_Tracking_Satellite
 
 
 .. toctree::
@@ -20,9 +29,9 @@ Welcome to a Collection of Tutorials for the Python Package `tobac`
    :hidden:
    :caption: Tracking in Simulaitons
 
-   ./tobac_v1/Example_OLR_Tracking_model/Example_OLR_Tracking_model
-   ./tobac_v1/Example_Precip_Tracking/Example_Precip_Tracking
-   ./tobac_v1/Example_Updraft_Tracking/Example_Updraft_Tracking
+   ./tutorials/Example_OLR_Tracking_model/Example_OLR_Tracking_model
+   ./tutorials/Example_Precip_Tracking/Example_Precip_Tracking
+   ./tutorials/Example_Updraft_Tracking/Example_Updraft_Tracking
 
 
 
@@ -45,10 +54,11 @@ Examples
 Examples or tutorial are collected to show how `tobac` and `tobac` "themes" are working. Function have been written to ease input of certain obervational or model-simulated fields available at TROPOS. These function included data from
 
 * **tobac_v1**
- * :doc:`Tracking of Observed OLR <./tobac_v1/Example_OLR_Tracking_satellite/Example_OLR_Tracking_satellite>`
- * :doc:`Tracking of Simulated OLR <./tobac_v1/Example_OLR_Tracking_model/Example_OLR_Tracking_model>`
- * :doc:`Tracking of Simulated Precipitation Cells <./tobac_v1/Example_Precip_Tracking/Example_Precip_Tracking>`
- * :doc:`Tracking of Simulated Updrafts Cells <./tobac_v1/Example_Updraft_Tracking/Example_Updraft_Tracking>`
+ * :doc:`Tracking of Observed OLR <./tutorials/Example_OLR_Tracking_satellite/Example_OLR_Tracking_satellite>`
+ * :doc:`Tracking of Observed Visible Satellite Images <./tutorials/Example_VIS_Tracking_Satellite/Example_VIS_Tracking_Satellite>`
+ * :doc:`Tracking of Simulated OLR <./tutorials/Example_OLR_Tracking_model/Example_OLR_Tracking_model>`
+ * :doc:`Tracking of Simulated Precipitation Cells <./tutorials/Example_Precip_Tracking/Example_Precip_Tracking>`
+ * :doc:`Tracking of Simulated Updrafts Cells <./tutorials/Example_Updraft_Tracking/Example_Updraft_Tracking>`
 
 
 * **your theme**
