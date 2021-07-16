@@ -3,3 +3,6 @@ sphinx_rtd_theme
 jupyter
 nbsphinx
 pandoc
+linkify-it-py
+myst-parser
+IPython
