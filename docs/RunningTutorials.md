@@ -29,7 +29,7 @@ with these tutorials, for that use examples provided on [tobac master branch](ht
 You need to switch branches, so use:
 
 ```bash
-git checkout v2.0-dev
+git checkout --track origin/v2.0-dev
 ```
 
 Check again which branch you're on. The active branch will appear with a * and 
@@ -46,6 +46,7 @@ and the clone the repository like before with:
 ```bash
 cd ..
 git clone https://github.com/climate-processes/tobac-tutorials
+cd tobac-tutorials
 ```
 
 This creates a second folder next to your `tobac` folder. Again, check what branch 
