@@ -85,6 +85,15 @@ install the package.
 pip install .
 ```
 
+Note that this will install the `tobac` version from your current branch (v2.0-dev). To be able to access the code from other branches as well,
+you can simply install the package with:
+
+```bash
+pip install -e .
+```
+
+This will enable you to update your `tobac` import to the version of another branch, as you checkout on that branch. Switching between branches is not necessary to run these tutorials, but could be useful if you also plan to test the latest release of `tobac` with the latest release or other development branches.
+
 Up to this point, you should have successfully installed `tobac`. As the tutorials 
 are provided by Jupyter Notebook, you'll need to install `jupyter` in your 
 environment as well. 
