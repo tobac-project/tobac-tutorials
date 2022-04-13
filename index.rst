@@ -32,7 +32,7 @@ Welcome to a Collection of Tutorials for the Python Package `tobac`
    WRF OLR <./tutorials/Example_OLR_Tracking_model/Example_OLR_Tracking_model>
    WRF Precip <./tutorials/Example_Precip_Tracking/Example_Precip_Tracking>
    WRF Updrafts <./tutorials/Example_Updraft_Tracking/Example_Updraft_Tracking>
-
+   WRF Mesoscale Vorticity <./tutorials/Example_vorticity_tracking_model/Example_vorticity_tracking_model> 
 
 
 Intro
@@ -59,7 +59,10 @@ Examples or tutorial are collected to show how `tobac` and `tobac` "themes" are 
  * :doc:`Tracking of Simulated OLR <./tutorials/Example_OLR_Tracking_model/Example_OLR_Tracking_model>`
  * :doc:`Tracking of Simulated Precipitation Cells <./tutorials/Example_Precip_Tracking/Example_Precip_Tracking>`
  * :doc:`Tracking of Simulated Updrafts Cells <./tutorials/Example_Updraft_Tracking/Example_Updraft_Tracking>`
+ * :doc:`Tracking of Simulated Vorticity Anomalies <./tutorials/Example_vorticity_tracking_model/Example_vorticity_tracking_model>`
+
 
 
 * **your theme**
  *  We search for volunteers that included their cloud tracking or analysis approach into `tobac` as a new theme and provide nice tutorials on the cool new functions here.
+
