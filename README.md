@@ -32,9 +32,8 @@ Please provide a separate pull request:
   * please check if your notebook is running in the recommended standard conda enviroment [see here]((docs/RunningTutorials.md) and update the [list of required python packages](./requirements.txt) if needed
 
 * **with your suggestions to change the documentation elements**, e.g. `index.rst`
-  * please care that sphinx-based rendering is still working correctly
+  * please care that sphinx-based rendering is still working correctly, [see here](docs/Testing-Sphinx-based-Rendering.md) for an intro to sphinx-based rendering of our tutorial content
 
-* **or with combination of both**
 
 
 ### Example Data
