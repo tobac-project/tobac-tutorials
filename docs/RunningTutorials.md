@@ -62,7 +62,7 @@ environment with:
 
 ```bash
 cd ..
-conda create --prefix tobac-test-env python=3.7
+conda create --prefix tobac-test-env
 ```
 
 Enter your environment's name and the Python version of your choice. Check the 
@@ -103,8 +103,7 @@ environment as well.
 In the active environment, you need to install additional packages that are exclusively used my the tutorial notebooks. These packages are however not mandatory for the execution of `tobac`itself. So please type: 
 
 ```bash
-conda install jupyter boto3 basemap basemap-data-hires
-pip install rioxarray
+conda install jupyter boto3 basemap basemap-data-hires rioxarray
 ```
 
 ## Running Jupyter Notebook
