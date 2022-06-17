@@ -79,20 +79,22 @@ conda install -c conda-forge --file conda-requirements.txt
 ```
 
 With this, all necessary prerequisites for running `tobac` are met so you can 
-install the package.
+install the package. You can choose between two methods:
 
-```bash
-pip install .
-```
 
-Note that this will install the `tobac` version from your current branch (v2.0-dev). To be able to access the code from other branches as well,
-you can simply install the package with:
+1. just install the `tobac` version from your current branch (v2.0-dev)
 
-```bash
-pip install -e .
-```
+   ```bash
+   pip install .
+   ```
 
-This will enable you to update your `tobac` import to the version of another branch, as you checkout on that branch. Switching between branches is not necessary to run these tutorials, but could be useful if you also plan to test the latest release of `tobac` or code from other development branches.
+2. enable to access the code from other branches as well, you can install the package with (editable mode for developers):
+
+    ```bash
+    pip install -e .
+    ```
+
+    This will enable you to update your `tobac` import to the version of another branch, as you checkout on that branch. Switching between branches is not necessary to run these tutorials, but could be useful if you also plan to test the latest release of `tobac` or code from other development branches.
 
 Up to this point, you should have successfully installed `tobac`. As the tutorials 
 are provided by Jupyter Notebook, you'll need to install `jupyter` in your 
