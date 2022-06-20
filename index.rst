@@ -14,11 +14,20 @@ Welcome to a Collection of Tutorials for the Python Package `tobac`
    ./docs/RunningTutorials.md
 
 
+.. toctree::
+   :maxdepth: 1 
+   :hidden:
+   :caption: Tracking for Beginners
+   
+   Test Blob in 2D <./tutorials/Basics/Idealized-Case-1_Tracking-of-a-Test-Blob-in-2D>
+   Feature Detection Settings: Part 1 <./tutorials/Basics/Methods-and-Parameters-for-Feature-Detection_Part_1.ipynb> 
+
+
 
 .. toctree::
    :maxdepth: 1 
    :hidden:
-   :caption: Tracking in Observations
+   :caption: Advanced Tracking in Observations
    
    OLR from GOES-13 Satellite <./tutorials/Example_OLR_Tracking_satellite/Example_OLR_Tracking_satellite>
    VIS from GOES-16 Satellite <./tutorials/Example_VIS_Tracking_Satellite/Example_VIS_Tracking_Satellite>
@@ -27,7 +36,7 @@ Welcome to a Collection of Tutorials for the Python Package `tobac`
 .. toctree::
    :maxdepth: 1 
    :hidden:
-   :caption: Tracking in Simulaitons
+   :caption: Advanced Tracking in Simulaitons
 
    WRF OLR <./tutorials/Example_OLR_Tracking_model/Example_OLR_Tracking_model>
    WRF Precip <./tutorials/Example_Precip_Tracking/Example_Precip_Tracking>
