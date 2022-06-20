@@ -62,7 +62,7 @@ environment with:
 
 ```bash
 cd ..
-conda create --prefix tobac-test-env python=3.7
+conda create --prefix tobac-test-env
 ```
 
 Enter your environment's name and the Python version of your choice. Check the 
@@ -79,11 +79,22 @@ conda install -c conda-forge --file conda-requirements.txt
 ```
 
 With this, all necessary prerequisites for running `tobac` are met so you can 
-install the package.
+install the package. You can choose between two methods:
 
-```bash
-pip install .
-```
+
+1. just install the `tobac` version from your current branch (v2.0-dev)
+
+   ```bash
+   pip install .
+   ```
+
+2. enable to access the code from other branches as well, you can install the package with (editable mode for developers):
+
+    ```bash
+    pip install -e .
+    ```
+
+    This will enable you to update your `tobac` import to the version of another branch, as you checkout on that branch. Switching between branches is not necessary to run these tutorials, but could be useful if you also plan to test the latest release of `tobac` or code from other development branches.
 
 Up to this point, you should have successfully installed `tobac`. As the tutorials 
 are provided by Jupyter Notebook, you'll need to install `jupyter` in your 
@@ -92,8 +103,7 @@ environment as well.
 In the active environment, you need to install additional packages that are exclusively used my the tutorial notebooks. These packages are however not mandatory for the execution of `tobac`itself. So please type: 
 
 ```bash
-conda install jupyter boto3 basemap basemap-data-hires
-pip install rioxarray
+conda install jupyter boto3 basemap basemap-data-hires rioxarray
 ```
 
 ## Running Jupyter Notebook
