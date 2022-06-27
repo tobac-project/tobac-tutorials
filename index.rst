@@ -39,7 +39,7 @@ Welcome to a Collection of Tutorials for the Python Package `tobac`
 .. toctree::
    :maxdepth: 1 
    :hidden:
-   :caption: Advanced Tracking: Simulaitons
+   :caption: Advanced Tracking: Simulations
 
    WRF OLR <./tutorials/Example_OLR_Tracking_model/Example_OLR_Tracking_model>
    WRF Precip <./tutorials/Example_Precip_Tracking/Example_Precip_Tracking>
