@@ -103,7 +103,7 @@ environment as well.
 In the active environment, you need to install additional packages that are exclusively used my the tutorial notebooks. These packages are however not mandatory for the execution of `tobac`itself. So please type: 
 
 ```bash
-conda install jupyter boto3 basemap basemap-data-hires rioxarray
+conda install jupyter boto3 basemap basemap-data-hires rioxarray seaborn
 ```
 
 ## Running Jupyter Notebook
