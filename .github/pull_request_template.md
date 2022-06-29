@@ -1,12 +1,12 @@
 ## Description
 
-* **What kind of change does this PR introduce?** (Bug fix, feature, docs update, ...)
+* **What kind of change does this PR introduce?** (change to an existing notebook vs. the addition of a new tutorial; and in the latter case if the new tutorial introduces a new feature -> please provide a link to that feature in main tobac repo)
 
 
 * **What is the current behavior?** (You can also link to an open issue here)
 
 
-* **What is the new behavior (if this is a feature change)?**
+* **What is the new behavior (if this applies) or the new content?**
 
 
 * **Does this PR introduce a breaking change?** (What changes might users need to make in their application due to this PR?)
