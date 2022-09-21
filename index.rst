@@ -24,7 +24,8 @@ Welcome to a Collection of Tutorials for the Python Package `tobac`
    On Feature Detection: Part 1 <./tutorials/Basics/Methods-and-Parameters-for-Feature-Detection_Part_1.ipynb> 
    On Feature Detection: Part 2 <./tutorials/Basics/Methods-and-Parameters-for-Feature-Detection_Part_2.ipynb>
    On Segmentation <./tutorials/Basics/Methods-and-Parameters-for-Segmentation.ipynb>
-   On Linking <./tutorials/Basics/Methods-and-Parameters-for-Linking.ipynb>  
+   On Linking <./tutorials/Basics/Methods-and-Parameters-for-Linking.ipynb> 
+   On 3D Inputs <./tutorials/Basics/Methods-and-Parameters-for-Handling_3D-Data.ipynb>
 
 
 
