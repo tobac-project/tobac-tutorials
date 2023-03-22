@@ -1,6 +1,6 @@
 # tobac-tutorials
 
-Tobac tutorials show different application cases for the cloud and precipitation tracking software tobac using jupyter notebooks. The rendered versions of our tutorials are provided at [https://fsenf-tobac-tutorials.readthedocs.io](https://fsenf-tobac-tutorials.readthedocs.io). Please have a look there, first!
+Tobac tutorials show different application cases for the cloud and precipitation tracking software tobac using jupyter notebooks. The rendered versions of our tutorials are provided at [https://tobac-tutorials.readthedocs.io](https://tobac-tutorials.readthedocs.io). Please have a look there, first!
 
 
 ## Getting Started
