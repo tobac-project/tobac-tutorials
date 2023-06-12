@@ -20,6 +20,7 @@ Welcome to a Collection of Tutorials for the Python Package `tobac`
    :caption: Tracking for Beginners
    
    Test Blob in 2D <./tutorials/Basics/Idealized-Case-1_Tracking-of-a-Test-Blob-in-2D>
+   Two crossing Blobs <./tutorials/Basics/Idealized-Case-2_Two_crossing_Blobs.ipynb>
    
    On Feature Detection: Part 1 <./tutorials/Basics/Methods-and-Parameters-for-Feature-Detection_Part_1.ipynb> 
    On Feature Detection: Part 2 <./tutorials/Basics/Methods-and-Parameters-for-Feature-Detection_Part_2.ipynb>
