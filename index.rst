@@ -3,6 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
+***This content is obsolete and will be deactivated or archived as of April 1, 2024.***
+
 Welcome to a Collection of Tutorials for the Python Package `tobac`
 ===================================================================
 
