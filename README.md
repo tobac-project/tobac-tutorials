@@ -1,3 +1,5 @@
+***This content is obsolete and will be deactivated or archived as of April 1, 2024.***
+
 # tobac-tutorials
 
 Tobac tutorials show different application cases for the cloud and precipitation tracking software tobac using jupyter notebooks. The rendered versions of our tutorials are provided at [https://tobac-tutorials.readthedocs.io](https://tobac-tutorials.readthedocs.io). Please have a look there, first!
